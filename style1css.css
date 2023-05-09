@@ -1,0 +1,21 @@
+.main1{
+
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+    margin-top: -80px;
+    height: 170px;
+    width: 100%;
+    transform: 100px;
+}
+.a1{
+   
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    transform: 200px;
+
+}
+.w1{
+    margin-top: 100px;
+    display: block;
+
+}
